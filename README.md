@@ -13,6 +13,6 @@ This will consist of:
 6. Summarizing the statistics, visualizing the data, and documenting the findings
 7. Communicating the findings by making it easier to understand for the general public
 
-The data analysis problem is: ___________
+The data analysis problem is: What are some things students can do to minimimize stressors in their lives?
 
-The data I am using is: _____________
+The data I am using is: the "Student Stress Factors: A Comprehensive Analysis" dataset from Kaggle. 
