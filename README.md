@@ -16,3 +16,9 @@ This will consist of:
 The data analysis problem is: What are some things students can do to minimimize stressors in their lives?
 
 The data I am using is: the "Student Stress Factors: A Comprehensive Analysis" dataset from Kaggle. 
+
+Sources:
+PHQ-9 Score to rate Depression
+https://creyos.com/resources/articles/measure-depressive-symptoms-with-the-phq-9
+
+
