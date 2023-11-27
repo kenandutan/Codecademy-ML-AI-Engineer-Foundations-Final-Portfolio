@@ -17,6 +17,9 @@ The data analysis problem is: What are some things students can do to minimimize
 
 The data I am using is: the "Student Stress Factors: A Comprehensive Analysis" dataset from Kaggle. 
 
+From the creator:
+"We were inspired by a research paper to create a dataset that delves into the student experience, and to ensure its quality, we gathered data through a combination of online and offline surveys. The primary motivation for our work stemmed from the insights provided by the paper, which prompted us to balance the features of the dataset, aiming to gain a deeper understanding of students' lives. Our approach involved conducting the surveys as a practical implementation of the paper's ideas, resulting in the creation of our dataset."
+
 Age group: 15 to 24
 City: Dharan, Nepal
 1) Anxiety : range from 0 to 21, Measure : GAD-7
